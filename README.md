@@ -77,19 +77,4 @@ This project analyzes and visualizes course reviews from Coursera and Udemy to e
 
 ---
 
-## Project Structure
-CourseReviewAnalysis/
-│
-├── data/                   # Datasets
-│   ├── coursera_reviews.csv       # Scraped dataset from Coursera
-│   ├── udemy_reviews.csv          # Kaggle dataset for Udemy
-│   ├── combined_reviews.csv       # Unified dataset for analysis
-│
-├── notebook/              # Jupyter Notebooks for exploration and analysis
-│   ├── course_review_analysis.ipynb        # Notebook for the analysis
-│
-├── README.md               # Project overview and instructions
-├── requirements.txt        # Python dependencies for the project
-├── LICENSE                 # Licensing information (e.g., MIT License)
-└── .gitignore              # Files and folders to exclude from version control
 
